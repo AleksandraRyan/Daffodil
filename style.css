@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap');
 body {
   text-align: center;
   background: #f3d106;
   line-height: 1.5;
+  font-family: 'Shippori Mincho B1', serif;
 }
 
 h1 {
@@ -11,8 +13,9 @@ h1 {
 
 p {
   padding: 10px;
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 0;
+  line-height: 1.8;
 }
 
 img {
